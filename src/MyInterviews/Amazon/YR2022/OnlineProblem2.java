@@ -1,8 +1,5 @@
 package MyInterviews.Amazon.YR2022;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /*
     Given an array of binary digits, 0, 1, sort theh array so that all zeros are at one end and all ones are at the other.
     Which end does not matter. To sort the array swap any two adjacent elements. Determine the minimum number of swaps to sort the array.

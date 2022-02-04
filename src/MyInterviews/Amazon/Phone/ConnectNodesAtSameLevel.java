@@ -1,6 +1,8 @@
 package MyInterviews.Amazon.Phone;
 
-import java.util.*;
+import java.util.LinkedList;
+import java.util.Queue;
+
 /* Completed */
 public class ConnectNodesAtSameLevel {
     static class TreeNode{
